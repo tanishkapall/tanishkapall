@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tanishka</h1>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanishkapall" alt="tanishkapall" /></a> </p>
+
 
 # 💫 About Me:
 Hi! I’m Tanishka, a B.Tech AIML student learning Python and data handling. I enjoy building small automation projects and exploring how code solves real-world problems. Always curious, always learning — and sharing my journey through projects.<br>Fun Fact: I can listen to a song on loop way longer than most people think is possible!
