@@ -1,4 +1,4 @@
-name: Generate Metrics
+name: Metrics embed
 
 on:
   push:
@@ -15,5 +15,4 @@ jobs:
       - name: Metrics embed
         uses: lowlighter/metrics@v3.34
         with:
-          github_token: ${{ secrets.METRICS_TOKEN }}
-
+          token: ${{ secrets.METRICS_TOKEN }}
